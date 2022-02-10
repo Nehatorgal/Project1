@@ -1,0 +1,68 @@
+h1{
+
+    color:blue;
+
+}
+
+
+
+nav{
+
+    justify-self:right;
+
+
+
+}
+p{
+    color:green;
+    font-size: 2em;
+
+}
+
+
+
+ul{
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+
+
+li{
+
+    float: right;
+
+}
+
+
+
+li a{
+
+    padding: 1.5em;
+
+    font-size: .8em;
+
+    text-transform: uppercase;
+
+}
+
+
+
+li a:hover{
+
+    background-color:lightblue;
+
+}
+
+
+
+.logo{
+
+    font-weight: bold;
+
+}
